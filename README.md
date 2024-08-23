@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**souzlume/souzlume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/about_me
+│
+├── /bio
+│   ├── he/him - 20y - brazilian - (🇧🇷 + 🇺🇸 + 🇨🇵)
+│   ├── /personal portfolio
+│   │   └── in development!
+│   ├── /degree in 'systems analysis and development'
+│   │   └── at ufbra.edu.br/
+│
+├── /courses
+│   ├── /vai na web
+│   │   ├── html5
+│   │   ├── sass
+│   │   ├── git bash
+│   │   ├── javascript
+│   │   ├── react.js
+│   │   └── vue.js
+│
+├── /experiencie
+│   ├── remote service
+│   ├── technical support
+│   └── service desk
+│
+└── /frameworks
+    ├── git bash
+    ├── vscode
+    └── node.js
