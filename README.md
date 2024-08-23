@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/souzlume/souzlume/blob/main/download.jpg" alt="vagabond" style="width: 200%; border: none;">
+      <img src="https://github.com/souzlume/souzlume/blob/main/vagabond.jpg" alt="vagabond" style="width: 200%; border: none;">
     </td>
 
 <td style="width: 50%; vertical-align: top;">
