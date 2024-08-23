@@ -5,9 +5,8 @@
     </td>
 
 <td style="width: 50%; vertical-align: top;">
-    
+  
     /about_me
-    <br>
     │
     ├── /bio
     │   ├── he/him - 20y - brazilian - (pt/br + english + français)
