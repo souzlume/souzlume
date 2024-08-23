@@ -1,3 +1,7 @@
+<table>
+  <tr>
+<td style="width: 50%; vertical-align: top;">
+    
 /about_me
 │
 ├── /bio
@@ -25,3 +29,6 @@
     ├── git bash
     ├── vscode
     └── node.js
+   
+  </tr>
+</table>
