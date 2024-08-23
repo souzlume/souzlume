@@ -1,11 +1,9 @@
-<table>
-  <tr>
 <td style="width: 50%; vertical-align: top;">
     
 /about_me
 │
 ├── /bio
-│   ├── he/him - 20y - brazilian - (🇧🇷 + 🇺🇸 + 🇨🇵)
+│   ├── he/him - 20y - brazilian - (pt/br + english + français)
 │   ├── /personal portfolio
 │   │   └── in development!
 │   ├── /degree in 'systems analysis and development'
@@ -29,6 +27,4 @@
     ├── git bash
     ├── vscode
     └── node.js
-   
-  </tr>
-</table>
+   </td>
