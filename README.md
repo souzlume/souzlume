@@ -9,7 +9,7 @@
     /about_me
     │
     ├── /bio
-    │   ├── he/him - 20y - brazilian - (pt/br + english + français)
+    │   ├── he/him - 21y - brazilian - (pt/br + english + français)
     │   ├── /personal portfolio
     │   │   └── in development!
     │   ├── /degree in 'systems analysis and development'
@@ -18,7 +18,7 @@
     ├── /courses
     │   ├── /vai na web
     │   │   ├── html5
-    │   │   ├── sass
+    │   │   ├── scss
     │   │   ├── git bash
     │   │   ├── javascript
     │   │   ├── react.js
